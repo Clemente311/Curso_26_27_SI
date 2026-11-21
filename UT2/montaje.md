@@ -7,9 +7,8 @@ i# SI · UT2 — Ficha de taller: montaje y revisión de un ordenador
 **Integrantes del grupo (2 o 3):**
 
 1. Nombre y apellidos: Clemente Gallego Pérez
-2. Nombre y apellidos: ______________________________________________
+2. Nombre y apellidos: Pablo 
 3. Nombre y apellidos (si procede): __________________________________
-
 > **Equipo A:** ordenador de prácticas utilizado para el montaje o la revisión. Puede estar averiado; no se exige que arranque.
 >
 > **Equipo B:** vuestro propio ordenador funcional. Se utiliza a partir del apartado 9 para analizar el arranque y el hardware desde Linux.
