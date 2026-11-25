@@ -62,20 +62,19 @@ Anotad lo que podáis verificar. Si no se distingue, escribid «no identificado�
 
 Identificad y marcad las conexiones presentes y comprobadas:
 
-- [ ] Alimentación de la placa
-- [ ] Alimentación de la CPU
-- [ ] Ventilador de la CPU
-- [ ] Datos de almacenamiento
-- [ ] Alimentación del disco
-- [ ] Panel frontal
+- [x] Alimentación de la placa
+- [x] Alimentación de la CPU
+- [x] Ventilador de la CPU
+- [x] Datos de almacenamiento
+- [x] Alimentación del disco
+- [x] Panel frontal
 
 **¿Hay algún cable suelto, conector dañado o conexión que no sepáis identificar?**
 
-________________________________________________________________________
+Hay cables sobrantes de la fuente de alimentación Sata 
+-------------------------------------------------------
 
-________________________________________________________________________
-
-**Fotografías de referencia (nombre de archivo o ubicación):**
+Fotografías de referencia (nombre de archivo o ubicación):**
 
 ________________________________________________________________________
 
