@@ -50,12 +50,12 @@ Anotad lo que podáis verificar. Si no se distingue, escribid «no identificado�
 
 | Componente | Marca / modelo | Dato observado |
 |---|---|---|
-| Placa base | | | GYGABYTE (GA-H81M-D2V). La ranura PCIE esta bacia 
-| Procesador | | | INTEL PENTIUM 63220 (Pasta térmica fresca)
-| RAM | | | Kington (KUR16N11S8/4), el siguiente no tiene pegatina (modulos microm)
-| Almacenamiento | | | WD 500GB (WMC2E8914528)
-| Fuente | | | POWER MAN 300W (80 PLUS BRONCE)
-| Disipador / ventilador | | | INTEL STOCK
+| Placa base | | GYGABYTE (GA-H81M-D2V). La ranura PCIE esta bacia 
+| Procesador | | INTEL PENTIUM 63220 (Pasta térmica fresca)
+| RAM | | Kington (KUR16N11S8/4), el siguiente no tiene pegatina (modulos microm)
+| Almacenamiento | | WD 500GB (WMC2E8914528)
+| Fuente | | POWER MAN 300W (80 PLUS BRONCE)
+| Disipador / ventilador | | INTEL STOCK
 | Tarjetas / otros | | Sin GPU dedicada y una tarjeta de red Tp link PCI express 300 mbps por s
 
 ## 5. Conexiones y observaciones · Equipo A
