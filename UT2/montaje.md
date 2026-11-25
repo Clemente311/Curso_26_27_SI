@@ -2,13 +2,14 @@ i# SI · UT2 — Ficha de taller: montaje y revisión de un ordenador
 
 ## 1. Orden de trabajo
 
-**Fecha:** ____________________  **Puesto:** ____________________  **Equipo / etiqueta:** ____________________
+**Fecha:** 16/11/2026  **Puesto:** 1  **Equipo / etiqueta:** 1 
 
 **Integrantes del grupo (2 o 3):**
 
 1. Nombre y apellidos: Clemente Gallego Pérez
-2. Nombre y apellidos: Pablo 
+2. Nombre y apellidos: Pablo Quiros  Dominguez 
 3. Nombre y apellidos (si procede): __________________________________
+
 > **Equipo A:** ordenador de prácticas utilizado para el montaje o la revisión. Puede estar averiado; no se exige que arranque.
 >
 > **Equipo B:** vuestro propio ordenador funcional. Se utiliza a partir del apartado 9 para analizar el arranque y el hardware desde Linux.
@@ -17,31 +18,29 @@ i# SI · UT2 — Ficha de taller: montaje y revisión de un ordenador
 
 **Trabajo previsto:**
 
-- [ ] Desmontaje y montaje
+- [x] Desmontaje y montaje
 - [ ] Revisión / diagnóstico
 - [ ] Otro: ___________________________________
 
 **Estado al recibirlo:**
 
-- [ ] Completo
+- [x] Completo
 - [ ] Faltan piezas
 - [ ] Sucio
 - [ ] Daños visibles
 
 **Síntomas conocidos, piezas ausentes o daños observados:**
 
-________________________________________________________________________
-
-________________________________________________________________________
+Falta una de las bahias traseras.
 
 ## 3. Seguridad y preparación · Equipo A
 
-- [ ] Equipo desconectado de la corriente y de los periféricos.
+- [x] Equipo desconectado de la corriente y de los periféricos.
 - [ ] Botón de encendido pulsado tras desconectar.
-- [ ] Superficie despejada y piezas organizadas.
-- [ ] Estado inicial y conexiones fotografiados.
+- [x] Superficie despejada y piezas organizadas.
+- [x] Estado inicial y conexiones fotografiados.
 
-**Herramientas utilizadas:** _______________________________________________
+**Herramientas utilizadas:** Destornillador de estrella 
 
 **No abráis la fuente ni forcéis piezas.** Ante daños o baterías, avisad al profesor.
 
@@ -51,13 +50,13 @@ Anotad lo que podáis verificar. Si no se distingue, escribid «no identificado�
 
 | Componente | Marca / modelo | Dato observado |
 |---|---|---|
-| Placa base | | |
-| Procesador | | |
-| RAM | | |
-| Almacenamiento | | |
-| Fuente | | |
-| Disipador / ventilador | | |
-| Tarjetas / otros | | |
+| Placa base | | | GYGABYTE (GA-H81M-D2V). La ranura PCIE esta bacia 
+| Procesador | | | INTEL PENTIUM 63220 (Pasta térmica fresca)
+| RAM | | | Kington (KUR16N11S8/4), el siguiente no tiene pegatina (modulos microm)
+| Almacenamiento | | | WD 500GB (WMC2E8914528)
+| Fuente | | | POWER MAN 300W (80 PLUS BRONCE)
+| Disipador / ventilador | | | INTEL STOCK
+| Tarjetas / otros | | Sin GPU dedicada y una tarjeta de red Tp link PCI express 300 mbps por s
 
 ## 5. Conexiones y observaciones · Equipo A
 
