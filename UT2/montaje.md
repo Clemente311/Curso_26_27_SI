@@ -50,9 +50,9 @@ Anotad lo que podáis verificar. Si no se distingue, escribid «no identificado�
 
 | Componente | Marca / modelo | Dato observado |
 |---|---|---|
-| Placa base | GYGABYTE (GA-H81M-D2V). La ranura PCIE esta bacia 
-| Procesador | INTEL PENTIUM 63220 (Pasta térmica fresca)
-| RAM | Kington (KUR16N11S8/4), el siguiente no tiene pegatina (modulos microm)
+| Placa base | GYGABYTE (GA-H81M-D2V).| La ranura PCIE esta bacia 
+| Procesador | INTEL PENTIUM 63220 | La pasta térmica estaba fresca
+| RAM | Kington (KUR16N11S8/4), | El siguiente no tenia pegatina (modulos microm)
 | Almacenamiento | WD 500GB (WMC2E8914528)
 | Fuente | POWER MAN 300W (80 PLUS BRONCE)
 | Disipador / ventilador | INTEL STOCK
